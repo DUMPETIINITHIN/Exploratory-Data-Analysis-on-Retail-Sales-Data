@@ -1,9 +1,9 @@
 # Exploratory-Data-Analysis-on-Retail-Sales-Data
-Project Overview
+**Project Overview**
 
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to identify sales trends, customer behavior, and product performance. The goal is to extract meaningful insights that can support better business decision-making.
 
-Objectives
+**Objectives**
 
 Load and clean retail sales data
 
@@ -17,7 +17,7 @@ Visualize data using charts and heatmaps
 
 Provide actionable recommendations
 
-Tools Used
+**Tools Used**
 
 Python
 
@@ -29,7 +29,7 @@ Matplotlib
 
 Seaborn
 
-Methodology
+**Methodology**
 
 Data Loading & Cleaning – Handle missing values, remove duplicates, and format date columns
 
@@ -41,17 +41,7 @@ Product & Customer Analysis – Identify top-performing products and customers
 
 Visualization – Use line plots, bar charts, and heatmaps
 
-Key Insights
-
-Sales show clear trends over time
-
-A few products contribute most of the total revenue
-
-Certain customers generate higher sales
-
-Regional sales performance varies
-
-Recommendations
+**Recommendations**
 
 Increase stock during high-demand periods
 
